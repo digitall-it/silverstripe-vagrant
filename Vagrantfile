@@ -3,7 +3,7 @@
 
 #v1.1
 
-  name = "casantonio"
+  name = "sitename"
   host = name + ".it"
 
 
